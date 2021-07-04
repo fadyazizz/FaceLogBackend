@@ -1,0 +1,2 @@
+connection string: Server=localhost\SQLEXPRESS1;Database=FaceLog;Trusted_Connection=True;
+SQLEXPRESS1
